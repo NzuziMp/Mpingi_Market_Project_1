@@ -94,7 +94,7 @@
 
                                         </div> <!-- form-group// -->
                                         <div class="form-group">
-                                            <button type="submit" class="btn btn-outline btn-lg w-100 DetailsBtns2_" disabled>
+                                            <button type="submit" class="btn btn-outline btn-lg w-100 DetailsBtns2_" >
                                                Create My Account</button>
                                         </div>
                                         <div class="mt-2 form-group">
